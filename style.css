@@ -5,18 +5,19 @@
   border: none;
 }
 
-  .step-2 {
-    background-color: rgb(255, 115, 115);
+  .step {
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;
     height: 5vh;
     text-align: center;
   }
 
+  .step-2 {
+    background-color: rgb(169, 115, 255);
+  }
   .step-3 {
-    background-color: rgb(0, 217, 255);
-    font-size: 40px;
-    font-family: Arial, Helvetica, sans-serif;
-    height: 5vh;
-    text-align: center;
+    background-color: rgb(49, 207, 255);
+  }
+  .step-4 {
+    background-color: rgb(125, 160, 255);
   }
